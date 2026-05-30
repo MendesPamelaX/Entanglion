@@ -1,6 +1,6 @@
 # Entanglion
 
-> A game by IBM Research
+> Um jogo da IBM Research
 
 **2 JOGADORES | A PARTIR DE 14 ANOS | 45 MINUTOS**
 
@@ -11,16 +11,16 @@ Você acha que está pronto para o desafio?
 <img src="images/front.jpg" width="100%">
 
 ## Bem-vindo ao universo quântico, capitão!
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+Parabéns, seu capitão se aposentou e deixou você no comando do negócio de transporte galáctico dele! Agora é a hora de fazer algumas melhorias.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+Por anos,você esteve obcecado com os rumores de uma tecnologia antiga de computação quântica que poderia revolucionar o transporte de carga galáctica. Se os rumores forem verdadeiros, isso permitiria que suas naves calculassem rotas no hiperespaço em questão de segundos! Mas aqui está o único problema: os antigos desmontaram seu computador quântico com medo de que fosse muito poderoso, e deixaram os componentes espalhados por planetas na galáxia Entanglion, fortemente protegida.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
+Se você quiser reconstruir esta incrível tecnologia, terá que navegar com suas naves pela galáxia Entanglion e superar as defesas que os antigos deixaram para trás. A boa notícia é que seu antigo capitão deixou dinheiro suficiente para você equipar suas naves com poderosos motores quânticos necessários para entrar em Entanglion. A notícia ruim é que sem um computador quântico para guiá-los, os motores podem ser um pouco... imprevisíveis.
 
-Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
+Quer saber mais? Leia a história completa de Entanglion, [The Mysterious Fate of the Quantics](game/Backstory.md).
 
-## Obtaining Entanglion
-Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
+## Obtendo o Entanglion
+Entanglion é um projeto de código aberto e você pode fazer sua própria cópia do jogo baixando e imprimindo os arquivos. Alternativamente, você pode adquirir uma cópia física de Entanglion na The Game Crafter.
 
 🚀 **[Download the Entanglion Printing & Assembly guide](assets)**
 
@@ -28,17 +28,16 @@ Entanglion is an open source project and you can make your own copy of the game 
 
 <img src="images/board.png" width="85%" />
 
-## Playing Entanglion
-Please read through the [rule book](game) to understand how to play Entanglion. The online version of the rule book should be considered authoritative, and we will document any errata we find in the printed guide on that page.
+## Jogando Entanglion
+Por favor, leia o [rule book](game) para entender como jogar Entanglion. A versão online do livro de instruções deve ser considerada uma fonte de autoridade,  e iremos documentar qualquer errata que encontrarmos no guia impresso da página.
+## Ensinando Entanglion
+Se você é um educador, que gostaria de usar Entanglion como parte de um currículo de aprendizagem, por favor [reach out to us](mailto:entanglion@us.ibm.com). Nós iríamos amar escutar sobre seus planos para Entanglion e talvéz poderíamos apoiar os seus esforços.
 
-## Teaching Entanglion
-If you are an educator who would like to use Entanglion as part of a learning curriculum, please [reach out to us](mailto:entanglion@us.ibm.com). We would love to hear about your plans for Entanglion and we may be able to support your efforts.
+## Expandindo Entanglion
+Entanglion é um projeto de código aberto desenvolvido pela IBM Reserch para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira nosso[expansion guide](expansions).
 
-## Expanding Entanglion
-Entanglion is an open-source project developed by IBM Research to teach players about quantum computing. We welcome community contributions to modify and extend gameplay. If you would like to develop an expansion to Entanglion, please check out our [expansion guide](expansions).
-
-## Citing Entanglion
-If you wish to cite Entanglion in academic work, please use the following citation.
+## Citando o Entanglion
+Se você deseja citar Entanglion wm um trabalho acadêmico, por favor use o nosso modelo de citação.
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
@@ -62,12 +61,12 @@ If you wish to cite Entanglion in academic work, please use the following citati
 } 
 ```
 
-# Contributors
-Entanglion was designed by IBM Research in New York.
+# Colaboradores
+Entanglion foi projetado pela IBM Research em Nova York.
 
 **Design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
 **Illustration**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
 **Quantum Science**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
 
-# License
+# Licença
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
