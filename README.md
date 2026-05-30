@@ -34,10 +34,10 @@ Por favor, leia o [rule book](game) para entender como jogar Entanglion. A vers�
 Se você é um educador, que gostaria de usar Entanglion como parte de um currículo de aprendizagem, por favor [reach out to us](mailto:entanglion@us.ibm.com). Nós iríamos amar escutar sobre seus planos para Entanglion e talvéz poderíamos apoiar os seus esforços.
 
 ## Expandindo Entanglion
-Entanglion é um projeto de código aberto desenvolvido pela IBM Reserch para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira nosso[expansion guide](expansions).
+Entanglion é um projeto de código aberto desenvolvido pela IBM Reserch para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira nosso [expansion guide](expansions).
 
 ## Citando o Entanglion
-Se você deseja citar Entanglion wm um trabalho acadêmico, por favor use o nosso modelo de citação.
+Se você deseja citar Entanglion em um trabalho acadêmico, por favor use o nosso modelo de citação.
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
