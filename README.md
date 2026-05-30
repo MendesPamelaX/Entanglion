@@ -31,7 +31,7 @@ Entanglion é um projeto de código aberto e você pode fazer sua própria cópi
 ## Jogando Entanglion
 Por favor, leia o [rule book](game) para entender como jogar Entanglion. A versão online do livro de instruções deve ser considerada uma fonte de autoridade,  e iremos documentar qualquer errata que encontrarmos no guia impresso da página.
 ## Ensinando Entanglion
-Se você é um educador e gostaria de usar o Entanglion como parte de um currículo de aprendizagem, entre em contato conosco [reach out to us](mailto:entanglion@us.ibm.com). Nós iríamos amar ouvir sobre seus planos para Entanglion e talvéz (podemos ajudar com) ideias para apoiar seus esforços. Thauany chata
+Se você é um educador e gostaria de usar o Entanglion como parte de um currículo de aprendizagem, entre em contato conosco [reach out to us](mailto:entanglion@us.ibm.com). Nós iríamos amar ouvir sobre seus planos para Entanglion e talvez possamos ajudar com ideias para apoiar seus esforços.
 
 ## Expandindo Entanglion
 Entanglion é um projeto de código aberto desenvolvido pela IBM Reserch para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira nosso [expansion guide](expansions).
