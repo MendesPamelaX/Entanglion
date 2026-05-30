@@ -135,7 +135,7 @@ to detect the player in the future. The game ends when the detection rate reache
 
 > The detection rate increases by one whenever you are detected by a planet's orbital or ground defenses.
 
-<img src="../images/detection_rate.png" width="40%">
+<img src="../images/taxa_deteccao.jpg" width="40%">
 
 # Orbital defenses
 Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
