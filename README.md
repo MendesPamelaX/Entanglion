@@ -29,15 +29,15 @@ Entanglion é um projeto de código aberto e você pode criar a sua própria có
 <img src="images/board.png" width="85%" />
 
 ## Jogando Entanglion
-Por favor, leia o [rule book](game) para entender como jogar Entanglion. A versão online do livro de instruções deve ser considerada uma fonte oficial de consulta, e iremos documentar qualquer errata que encontrarmos no guia impresso da página
+Por favor, leia o [rule book](game) para entender como jogar Entanglion. A versão online do livro de instruções deve ser considerada uma fonte oficial de consulta, e iremos documentar qualquer errata que encontrarmos no guia impresso da página.
 ## Ensinando Entanglion
 Se você é um educador e gostaria de usar Entanglion como uma ferramenta de aprendizagem, entre em contato conosco [reach out to us](mailto:entanglion@us.ibm.com). Adoraríamos conhecer seus planos para o jogo e, talvez, contribuir com ideias para apoiar os seus objetivos educacionais. 
 
 ## Expandindo Entanglion
-EEntanglion é um projeto de código aberto desenvolvido pela IBM Research para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira o nosso [expansion guide](expansions).
+Entanglion é um projeto de código aberto desenvolvido pela IBM Research para ensinar os jogadores a respeito da computação quântica. Nós agradecemos as contribuições da comunidade para modificar e expandir a jogabilidade. Se você gostaria de desenvolver uma expansão para Entanglion, confira o nosso [expansion guide](expansions).
 
 ## Citando o Entanglion
-Se você deseja citar Entanglion em um trabalho acadêmico, por favor use o nosso modelo de citação.
+Se você deseja citar Entanglion em um trabalho acadêmico, por favor, use o nosso modelo de citação.
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
