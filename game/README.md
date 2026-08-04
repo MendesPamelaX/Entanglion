@@ -50,7 +50,7 @@ roll the Entanglion die (8-sided). The player with the higher number goes first.
 7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
 8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
 
-<img src="../images/setup2.png" width="100%">
+<img src="../images/setup_traduzido.png" width="100%">
 
 # Materials
 
