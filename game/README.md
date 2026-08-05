@@ -50,7 +50,7 @@ roll the Entanglion die (8-sided). The player with the higher number goes first.
 7. **Determine the initial ship locations**. Starting with the first player, roll the Centarious die to place each spaceship (0 goes to <span style="color: purple"> ZERO </span>, 1 goes to <span style="color: purple"> ONE </span>). This process is akin to initializing a quantum system.
 8. **Draw engine cards**. Starting with the first player, each player draws three engine cards into their hand. Engine cards may be kept face up.
 
-<img src="../images/setup_traduzido.png" width="100%">
+<img src="../images/setup.png" width="100%">
 
 # Materials
 
@@ -135,7 +135,7 @@ to detect the player in the future. The game ends when the detection rate reache
 
 > The detection rate increases by one whenever you are detected by a planet's orbital or ground defenses.
 
-<img src="../images/taxa_deteccao.jpg" width="40%">
+<img src="../images/detection_rate.jpg" width="40%">
 
 # Orbital defenses
 Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
